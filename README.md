@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OussamaBOUIZ
-- 👀 I’m a CS training Program in the 42 network
+- 👀 I’m a CS training Program Student in the 42 network
 - 🌱 I’m currently learning C++
 
 <!---
