@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OussamaBOUIZ
 - 👀 I’m a CS training Program Student in the 42 network
-- 🌱 I’ve learned C++, enjoyed coding with the OOP paradigm 😁 
+- 🌱 I’ve learned both C and C++, completed projects with both and really enjoyed coding with the OOP paradigm 😁 
 - 🌱 I'm currently learning Docker 🐳 
 
 <!---
